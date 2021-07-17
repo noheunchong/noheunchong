@@ -284,7 +284,10 @@ footer {
   body {
     padding:15px;
   }
-
+  header {
+    text-align:center;
+    height:20px;
+  }
   header ul {
     width:99%;
   }
