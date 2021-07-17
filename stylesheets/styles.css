@@ -104,7 +104,7 @@ img {
 }
 
 header {
-  background-imege: url("img/bg.jpg");
+  background-image: url("img/bg.jpg");
   background-color: #cccccc;
   padding-left:100px;
   text-align: center;
@@ -116,6 +116,7 @@ header {
 }
 
 section {
+  text-align:center;
   background-color: #BBDEFB;
   width:50%;
   float:right;
