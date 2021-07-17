@@ -292,4 +292,8 @@ footer {
     font-size:12pt;
     color:#444;
   }
+  header {
+    padding: 1in 1in;
+    text-align: center;
+  }
 }
