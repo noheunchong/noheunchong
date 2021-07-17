@@ -111,7 +111,13 @@ header {
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
-header ul {
+section {
+  width:50%;
+  float:right;
+  padding-bottom:50px;
+}
+
+article ul {
   list-style:none;
   height:40px;
   padding:0;
@@ -121,22 +127,22 @@ header ul {
   width:270px;
 }
 
-header li {
+article li {
   width:89px;
   float:left;
   border-right:1px solid #e0e0e0;
   height:40px;
 }
 
-header li:first-child a {
+article li:first-child a {
   border-radius:5px 0 0 5px;
 }
 
-header li:last-child a {
+article li:last-child a {
   border-radius:0 5px 5px 0;
 }
 
-header ul a {
+article ul a {
   line-height:1;
   font-size:11px;
   color:#999;
@@ -146,11 +152,11 @@ header ul a {
   height:34px;
 }
 
-header ul a:hover {
+article ul a:hover {
   color:#999;
 }
 
-header ul a:active {
+article ul a:active {
   background-color:#f0f0f0;
 }
 
@@ -159,21 +165,15 @@ strong {
   font-weight:500;
 }
 
-header ul li + li + li {
+article ul li + li + li {
   border-right:none;
   width:89px;
 }
 
-header ul a strong {
+article ul a strong {
   font-size:14px;
   display:block;
   color:#222;
-}
-
-section {
-  width:50%;
-  float:right;
-  padding-bottom:50px;
 }
 
 small {
