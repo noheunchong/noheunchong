@@ -107,7 +107,7 @@ header {
   background-imege: url("img/bg.jpg");
   background-color: #cccccc;
   padding-left:100px;
-  text-align: right;
+  text-align: center;
   width:600px;
   height:100%;
   float:left;
@@ -193,6 +193,7 @@ hr {
 }
 
 footer {
+  text-align:center;
   width:300px;
   float:left;
   position:fixed;
