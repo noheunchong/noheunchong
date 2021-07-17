@@ -116,6 +116,7 @@ header {
 }
 
 section {
+  background-color: #f8f8f8;
   width:50%;
   float:right;
   padding-bottom:50px;
