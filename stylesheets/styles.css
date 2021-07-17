@@ -108,7 +108,7 @@ header {
   background-color:#cccccc;
   padding-left:100px;
   text-align:center;
-  width:600px;
+  width:50%;
   height:100%;
   float:left;
   position:fixed;
@@ -195,7 +195,7 @@ hr {
 footer {
   text-align:center;
   padding-left:100px;
-  width:300px;
+  width:50%;
   float:left;
   position:fixed;
   bottom:50px;
