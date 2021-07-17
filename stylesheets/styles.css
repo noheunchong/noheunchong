@@ -115,6 +115,7 @@ header {
 }
 
 section {
+  text-align:left;
   background-color: #BBDEFB;
   width:50%;
   float:right;
