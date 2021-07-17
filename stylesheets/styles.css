@@ -104,7 +104,7 @@ img {
 }
 
 header {
-  background-image:url("img/bg.jpg");
+  background-image:url('img/bg.jpg');
   background-color:#cccccc;
   text-align:center;
   width:50%;
