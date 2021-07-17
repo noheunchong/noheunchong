@@ -106,7 +106,8 @@ img {
 header {
   background-image:url('img/bg.jpg');
   background-color:#cccccc;
-  text-align:right;
+  text-align:center;
+  padding-left:100px;
   width:40%;
   height:100%;
   float:left;
