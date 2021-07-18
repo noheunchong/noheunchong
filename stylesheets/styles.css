@@ -285,6 +285,9 @@ footer {
     text-align:center;
     height:50%;
   }
+  footer {
+    text-align:center;
+  }
   header ul {
     width:99%;
   }
@@ -302,6 +305,7 @@ footer {
   }
   header {
     padding: 1in 1in;
+    height:50%;
     text-align: center;
   }
   footer {
